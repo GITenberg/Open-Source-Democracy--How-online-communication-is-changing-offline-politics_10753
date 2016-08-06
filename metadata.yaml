@@ -1,0 +1,27 @@
+_repo: Open-Source-Democracy--How-online-communication-is-changing-offline-politics_10753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rushkoff, Douglas
+    gutenberg_agent_id: '3665'
+    url: http://www.gutenberg.org/2009/agents/3665
+    wikipedia: http://en.wikipedia.org/wiki/Douglas_Rushkoff
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10753'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Political participation'
+- !lcsh 'Information society'
+- !lcsh 'Information technology -- Political aspects'
+- !lcsh 'Information society -- Political aspects'
+- !lcc 'HM'
+- !lcsh 'Democracy'
+- GITenberg
+title: 'Open Source Democracy: How online communication is changing offline politics'
+url: http://www.gutenberg.org/ebooks/10753
