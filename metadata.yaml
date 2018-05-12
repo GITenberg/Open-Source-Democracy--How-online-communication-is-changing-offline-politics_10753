@@ -1,5 +1,8 @@
 _repo: Open-Source-Democracy--How-online-communication-is-changing-offline-politics_10753
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rushkoff, Douglas
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3665
     wikipedia: http://en.wikipedia.org/wiki/Douglas_Rushkoff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10753#Open-Source-Democracy--How-online-communication-is-changing-offline-politics
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
